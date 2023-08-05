@@ -1,3 +1,12 @@
+/*************************************************
+ *
+ *    File: extr-alphabet.go
+ * purpose: Extracts the alphabet from a text file
+ *  author: Paolo Fabio Zaino
+ * license: GPLv2
+ *
+ *************************************************/
+
 package main
 
 import (
