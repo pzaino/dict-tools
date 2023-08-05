@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple script to extract the alphabet from a text file. It will remove all non-alphabetic characters and convert all characters to lowercase.
+This is a simple program to extract the alphabet from a text file. It will remove all non-alphabetic characters and create a text file containing the set of letters used to write the original document.
 
 ## Usage
 
