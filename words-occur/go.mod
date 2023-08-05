@@ -1,4 +1,4 @@
-module gotests/extract-alphabet/words-occur
+module gotests/dict-tools/words-occur
 
 go 1.20
 

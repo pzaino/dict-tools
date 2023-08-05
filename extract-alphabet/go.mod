@@ -1,3 +1,3 @@
-module gotests/extract-alphabet
+module gotests/dict-tools/extract-alphabet
 
 go 1.20
